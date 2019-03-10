@@ -11,7 +11,7 @@ public abstract class Caller {
         Timer timer = new Timer(1);
 
             System.out.println(timer);
-        System.out.println("test");
+        System.out.println("tests");
 
 
 
