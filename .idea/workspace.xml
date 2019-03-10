@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66be2dc8-a4b5-4e07-ae79-ba226f2501a6" name="Default Changelist" comment="Java Output Formatting">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CallerModules/CallerModules.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CallerModules/HackerRank.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRankModules/HackerRankModules.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TimerLogic/TimerLogic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CallerModules/META-INF/CallerModules.kotlin_module" afterDir="false" />
+    <list default="true" id="66be2dc8-a4b5-4e07-ae79-ba226f2501a6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CallerModules/src/com/rickycbenitez/modules/caller/Caller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="240">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -151,6 +141,9 @@
     <option name="y" value="47" />
     <option name="width" value="1338" />
     <option name="height" value="671" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -305,7 +298,14 @@
       <option name="project" value="LOCAL" />
       <updated>1552221372282</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Java Output Formatting">
+      <created>1552221844516</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1552221844516</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView">
@@ -375,6 +375,20 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Java Output Formatting" />
@@ -396,8 +410,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CallerModules/src/com/rickycbenitez/modules/caller/Caller.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
