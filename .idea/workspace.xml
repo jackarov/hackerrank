@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="66be2dc8-a4b5-4e07-ae79-ba226f2501a6" name="Default Changelist" comment="Java Output Formatting">
+    <list default="true" id="66be2dc8-a4b5-4e07-ae79-ba226f2501a6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/JavaEnd-of-file/JavaEnd-of-file.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaEnd-of-file/src/com/rickycbenitez/javaEndofFile/JavaEndoffile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CallerModules/HackerRank.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CallerModules/HackerRank.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaLoopsII/src/com/rickycbenitez/javaloops2/JavaLoops2.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaLoopsII/src/com/rickycbenitez/javaloops2/JavaLoops2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,31 +25,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CallerModules/src/com/rickycbenitez/modules/caller/Caller.java">
+        <entry file="file://$PROJECT_DIR$/JavaLoopsII/src/com/rickycbenitez/javaloops2/JavaLoops2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TimerLogic/src/com/rickycbenitez/com/modules/timer/Timer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+            <state relative-caret-position="90">
+              <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HackerRankModules/src/com/rickycbenitez/JavaOutputFormatting.java">
+        <entry file="file://$PROJECT_DIR$/JavaEnd-of-file/src/com/rickycbenitez/javaEndofFile/JavaEndoffile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+            <state relative-caret-position="255">
+              <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -117,6 +110,8 @@
         <option value="$PROJECT_DIR$/HackerRankModules/src/com/rickycbenitez/hackerrank.java" />
         <option value="$PROJECT_DIR$/HackerRankModules/src/com/rickycbenitez/JavaOutputFormatting.java" />
         <option value="$PROJECT_DIR$/CallerModules/src/com/rickycbenitez/modules/caller/Caller.java" />
+        <option value="$PROJECT_DIR$/JavaLoopsII/src/com/rickycbenitez/javaloops2/JavaLoops2.java" />
+        <option value="$PROJECT_DIR$/JavaEnd-of-file/src/com/rickycbenitez/javaEndofFile/JavaEndoffile.java" />
       </list>
     </option>
   </component>
@@ -125,16 +120,6 @@
       <expand />
       <select />
     </treeState>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/CallerModules/CallerModules.iml" />
-        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-        <option value="$PROJECT_DIR$/CallerModules/HackerRank.iml" />
-        <option value="$PROJECT_DIR$/HackerRankModules/HackerRankModules.iml" />
-      </list>
-    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="55" />
@@ -147,6 +132,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -165,11 +151,33 @@
               <item name="HackerRankModules" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaEnd-of-file" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaLoopsII" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaLoopsII" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hackerrank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaLoopsII" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="javaloops2" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -223,8 +231,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JavaOutputFormatting" />
         <item itemvalue="Application.Caller" />
+        <item itemvalue="Application.JavaOutputFormatting" />
         <item itemvalue="Application.JavaOutputFormatting" />
         <item itemvalue="Application.Caller" />
         <item itemvalue="Application.Caller" />
@@ -298,7 +306,14 @@
       <option name="project" value="LOCAL" />
       <updated>1552221372282</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="java loops 2">
+      <created>1552568107293</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1552568107293</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView">
@@ -311,9 +326,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="28" width="1368" height="713" extended-state="7" />
+    <frame x="-1" y="28" width="1368" height="713" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26136363" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27045456" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -330,7 +346,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32857144" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32857144" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5007576" side_tool="true" weight="0.25892857" />
-      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.22321428" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.22321428" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49924242" weight="0.25892857" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -385,7 +401,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Java Output Formatting" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Output Formatting" />
+    <MESSAGE value="java loops 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="java loops 2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/hackerrank$Caller.ic" NAME="Caller Coverage Results" MODIFIED="1552214461176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -403,8 +420,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CallerModules/src/com/rickycbenitez/modules/caller/Caller.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRankModules/src/com/rickycbenitez/JavaOutputFormatting.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -418,10 +445,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRankModules/src/com/rickycbenitez/JavaOutputFormatting.java">
+    <entry file="file://$PROJECT_DIR$/JavaLoopsII/src/com/rickycbenitez/javaloops2/JavaLoops2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        <state relative-caret-position="90">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaEnd-of-file/src/com/rickycbenitez/javaEndofFile/JavaEndoffile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
